@@ -2,8 +2,8 @@
 
 /**
  * binary_tree_insert_right - inserts node to right of another node
- * @parent: pointer to parent 
-* @value: value of new node
+ * @parent: pointer to parent
+ * @value: value of new node
  * Return: pointer to created node or NULL on failure or parent is NULL
  */
 
